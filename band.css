@@ -1,3 +1,4 @@
+
 .jumbotron {
      position: fixed;
      width: 100%;
@@ -10,3 +11,15 @@
      font-weight: 200;
      line-height: 2.1428571435;
  }
+.aboutpatagonia {
+    float: left;
+}
+.container {
+  width: auto;
+  margin-top: 550px;
+
+}
+.more {
+  width: auto;
+  float: right;
+}
